@@ -1,8 +1,5 @@
-# Table of Contents
-1. [Regex Parsing](#1-regex-parsing)
-2. [Another Leaning Project](#2-next)  
-3. [More to Come](#3-aa)
-# 1. Regex Parsing 
+
+# 1. Regex Parsing        
 
 This sub project demonstrates use of Python’s built-in **`re` (Regular Expressions)** module to parse structured text data to meaningful fields.
 
@@ -83,3 +80,8 @@ address:
         zip:  34075
 email:  charlesharris@bogusemail.com
 ```
+
+
+[back to top](#1-regex-parsing)
+
+[HOME](/README.md)

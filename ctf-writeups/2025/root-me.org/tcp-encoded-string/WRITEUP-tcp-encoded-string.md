@@ -1,7 +1,3 @@
-# Table of Contents
-1. [Root-Me TCP Encoded String Challenge](#1-root-me-tcp-encoded-string-challenge)
-2. [Another CTF challenge](#2-next)  
-3. [More to Come](#3-aa)
 
 # 1. Root-Me TCP Encoded String Challenge 
 ## Challenge
@@ -121,3 +117,8 @@ encoded string: ZllsRlBHSExYZHN0
 decoded string: fYlFPGHLXdst
 b'[+] Good job ! Here is your flag: FLAG_OMMITED\n'
 ```
+
+
+[back to top](#1-root-me-tcp-encoded-string-challenge)
+
+[HOME](/README.md)

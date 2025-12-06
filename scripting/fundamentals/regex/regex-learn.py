@@ -1,5 +1,8 @@
 import re
-with open("../resourses/data.txt","r") as f:
+
+path= "../../../resources/files/regex/data.txt"
+
+with open(path,"r") as f:
     d = f.read()
     # print(repr(d))
     patt = re.compile(r'^\w+\s\w+$\n.*$\n.*$\n.*@.*$',re.MULTILINE)
