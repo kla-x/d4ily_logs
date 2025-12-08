@@ -51,3 +51,5 @@ Te: trailers
 ```
 
 [test out your payloads here](/labs/sql-injection/portswigger/lab-1_exploit.py)
+
+[](easter gg)
